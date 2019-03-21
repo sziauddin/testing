@@ -1,5 +1,7 @@
 # this is testing file
 I am done
-please suggest
-red color 
-repo 1
+
+h<<<<<<< localrepo1
+in process of doing
+wanna add=======
+red colo
