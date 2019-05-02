@@ -5,3 +5,4 @@ h<<<<<<< localrepo1
 in process of doing
 wanna add=======
 red colo
+hello 
